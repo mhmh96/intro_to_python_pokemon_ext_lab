@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Game programming and analysis
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Game programming and analysis
 
 ## Business Case
 
@@ -45,15 +45,3 @@ We will be looking for the following things:
 
 ---
 
-### Project Feedback + Evaluation
-
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:** 
-
-Score | Expectations
------ | ------------
-**0** | _Does not meet expectations. Try again._
-**1** | _Meets expectations. Good job._
-**2** | _Surpasses expectations. Brilliant!_
-
-
-[For more information on how we grade our DSI projects, see our project grading walkthrough.](https://git.generalassemb.ly/dsi-projects/readme/blob/master/README.md)
